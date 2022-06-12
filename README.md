@@ -7,6 +7,6 @@
 
    * [《栈的括号匹配问题》](https://github.com/WildboarG/DataStructure/blob/main/%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97%E7%9A%84%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8/bracket.c)
    * [《用链栈实现后缀表达式的计算》](https://github.com/WildboarG/DataStructure/blob/main/%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97%E7%9A%84%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8/suffix.c)
-
+   * [《中缀表达式转后缀表达式--伪码》](https://github.com/WildboarG/DataStructure/blob/main/%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97%E7%9A%84%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8/InfixtoPostfix.c)
 2. 
 3. 
